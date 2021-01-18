@@ -1,4 +1,4 @@
-# README -- Code The Dream Backend 2 Week 2a
+# README -- Code The Dream Backend Community Application
 
 This repository contains the framework for the application called "community" in the following Treehouse video for Active Record Associations in Rails: https://teamtreehouse.com/library/has-and-belongs-to-many-associations .  You should create a git branch called community and make your changes there.
 When you are done with the application, because you have completed all the changes from the Treehouse videos, you can git add, commit, and push your changes and 
